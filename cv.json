@@ -1,0 +1,201 @@
+{
+    "basics": {
+      "name": "Yesid A. Castro R.",
+      "label": "Ingeniero de sistemas, Developer con mas de 2 años de experiencia y Diseñador Grafico Empi",
+      "image": "https://avatars.githubusercontent.com/u/144307120?v=4",
+      "email": "ingenieroyesidcastro08@gmail.com",
+      "phone": "(+57) 3128631769",
+      "url": "",
+      "summary": "2 años de experiencia como Desarrollador web. Actualmente estoy culminando la carrera ingenieria de sistemas y me destaco como diseñador grafico empirico. Quibdó-chocó, colombia. He trabajado en diferentes  entornos: he sido parte de equipos de trabajos y trabajado en varios sitios web.",
+
+      "location": {
+        "address": "calle 20 #23-08",
+        "postalCode": "57955",
+        "city": "Quibdó",
+        "countryCode": "COL",
+        "region": "Colombia"
+      },
+      "profiles": [
+        {
+        "network": "X",
+        "username": "bartmusick",
+        "url": "https://twitter.com/bartmusick"
+      },
+      {
+        "network": "GitHub",
+        "username": "YsdCastro24",
+        "url": "https://github.com/YsdCastro24"
+      }
+    ]
+    },
+    "work": [{
+      "name": "Almacenes Fuller S.A.S",
+      "position": "Auxiliar",
+      "url": "https://www.almacenesfuller.com.co/",
+      "startDate": "2022-10-26",
+      "endDate": "2023-03-08",
+      "summary": "Adminsitracion del sitio web y todo lo que tiene que ver con publicidad de articulos de venta y sostenimiento de l sitio web",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Fundacion la paz",
+      "position": "Desarrollador",
+      "url": "https://fundacionlapaz.com.co/",
+      "startDate": "2021-03-08",
+      "endDate": "2022-08-24",
+      "summary": "Desarollador web y sostenimiento del sitio",
+      "highlights": [
+        "siempre activo"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://www.uniclaretiana.edu.co/",
+      "area": "Ingeniero de sistemas",
+      "studyType": "Colombia",
+      "startDate": "2019-06-01",
+      "endDate": "2024-/-/",
+      "score": "4.0",
+      "courses": [
+        "python-sql"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+          "name": "HTML",
+          "level": "Avanzado"
+      },
+      {
+          "name": "CSS",
+          "level": "Avanzado"
+      },
+      {
+          "name": "JavaScript",
+          "level": "Avanzado"
+      },
+      {
+          "name": "TypeScript",
+          "level": "Avanzado"
+      },
+      {
+          "name": "MongoDB",
+          "level": "Intermedio"
+      },
+      {
+          "name": "Git",
+          "level": "Avanzado"
+      },
+      {
+          "name": "GitHub",
+          "level": "Avanzado"
+      },
+      {
+          "name": "Next.js",
+          "level": "Intermedio"
+      },
+      {
+          "name": "React",
+          "level": "Avanzado"
+      },
+      {
+          "name": "Node.js",
+          "level": "Avanzado"
+      },
+      {
+          "name": "Wordpress",
+          "level": "Intermedio"
+      },
+      {
+        "name": "UI/UX Desing",
+        "level": "Intermedio"
+    },
+      {
+          "name": "Angular",
+          "level": "Intermedio"
+      },
+      {
+          "name": "SQL",
+          "level": "Intermedio"
+      },
+      {
+        "name": "SQLite",
+        "level": "Intermedio"
+    },
+    {
+      "name": "FireBase",
+      "level": "Intermedio"
+  },
+  {
+    "name": "Python",
+    "level": "Intermedio"
+}],  
+  
+    "languages": [{
+      "language": "English",
+      "fluency": "basico"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Marco Antonio Castro Renteria",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "ChocoRif",
+      "startDate": "2024-01-18",
+      "endDate": "null",
+      "description": "ChocoRif es una inciciativa de rifax en linea donde las perdonas pueden comprar sus boletos para particiapar en reifcas y donde el que relaiza la rifa puede monitorear cuanta voletas le quedan y cuando ha vendido y asi por medio de uan rulete programar la rifiga con el numero ganador y muchas cosas mas... ",
+      "highlights": [
+        "La Inovación a Tu alcance"
+      ],
+      "url": "https://chocorif.com" 
+    },
+    {
+    "name": "Fundacion la paz",
+    "startDate": "2021-03-08",
+    "endDate": "null",
+    "description": "Fundacion la paz es una fundacion sin animo de lucro la cual brinda educación a niñas de bajos recursos y de diferentes zonas del del partemaneto del chocó y les enseña sobre el enpoderamiento famenenimo y al igual que les enseña a emprender y valerse por si solas.",
+    "highlights": [
+      "Empoderamiento Femenino"
+    ],
+    "url": "https://fundacionlapaz.com.co/",
+    "isActive": true
+  },
+  {
+    "name": "Alamacenes Fuller S.A.S",
+    "startDate": "2022-10-26",
+    "endDate": "null",
+    "description": "Alamacenes Fuller S.A.S es un alamacen de cadena situado en el departamento del cohocó el cual cuenta con una gran trayectoria en el departamento su mayor satisfacion es servirle a su comunidad y ofrecer tecnologia banguardista a sus clientes...",
+    "highlights": [
+      "¡Chocoanísimo!"
+    ],
+    "url": "https://www.almacenesfuller.com.co/",
+    "isActive": true 
+  }]
+}
