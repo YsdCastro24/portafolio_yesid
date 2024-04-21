@@ -1,7 +1,87 @@
 ---
 import Section from "../Section.astro"
+import { education } from '@cv'
 ---
 
 <Section title="Education">
+    <ul>
+        {
+            education.map(
+                ({ institution,institution2, startDate, startDate2, endDate, endDate2, url, url2, area, area2, studyType, studyType2, courses }) => {
+                    const startYear = new Date(startDate).getFullYear(); // Definir startYear aquí
+                    const startYear2 = new Date(startDate2).getFullYear(); // Definir startYear aquí
+                    const currentYear = new Date().getFullYear();
+                    const currentYear2 = new Date().getFullYear();
+                    const endYear = endDate ? new Date(endDate).getFullYear() : currentYear;
+                    const endYear2 = endDate2 ? new Date(endDate2).getFullYear() : currentYear2;
+                    const years = `${startYear} - ${endYear === currentYear ? "Actual" : endYear}`;
+                    const years2 = `${startYear2} - ${endYear2 === currentYear2 ? "Actual" : endYear2}`;
+
+                    return (
+                        <li>
+                            <article>
+                                <header>
+                                    <div>
+                                        <h3>{institution}</h3>
+                                        <h4>{url}</h4>
+                                        <h4>{studyType}</h4>
+                                        <h4>{area}</h4>
+                                        <h3>{courses}</h3>
+                                        <div>
+                                            <time style="position: relative; left: 631px; top: -106px;">{years}</time>
+                                            <pre></pre>
+                                            <br>
+                                            <h3>{institution2}</h3>
+                                            <h4>{url2}</h4>
+                                            <h4>{studyType2}</h4>
+                                            <h4>{area2}</h4>
+                                            </div>
+                                            <time style="position: relative; left: 630px; top: -78px; transition: none 0s ease 0s; cursor: move;">{years2}</time>
+                                    </div>
+                                </header>
+
+                                <footer>
+                                    <p>{}</p>
+                                </footer>
+                        </article>
+                    </li>
+                    )
+                }
+            )
+        }
+    </ul>
+</Section>
+
+
+<style>
+    li {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    article h3 {
+        font-weight: 500;
+        color: #111;
+    }
+
+    article h4 {
+        color: #222;
+        font-weight: 400;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 4px;
+    }
+
+    time {
+        color: #555;
+        font-size: 0.85rem;
+    }
+</style>
+
 
 </Section>

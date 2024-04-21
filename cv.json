@@ -51,35 +51,29 @@
       ]
     }],
     "education": [{
-      "institution": "University",
+      "institution": "Fundación Universitaria Claretiana",
       "url": "https://www.uniclaretiana.edu.co/",
-      "area": "Ingeniero de sistemas",
+      "area": "Ingenieria de sistemas",
       "studyType": "Colombia",
       "startDate": "2019-06-01",
       "endDate": "2024-/-/",
       "score": "4.0",
       "courses": [
-        "python-sql"
-      ]
-    }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+        "python-sql, MongoDB, Codeigniter 3-4"
+      ],
+      "institution2": "I.E Nuestra señora de la candelaria",
+      "url2": "https://www.ielacandelaria.edu.co/",
+      "area2": "Bachillerato academico",
+      "studyType2": "Colombia",
+      "startDate2": "2012-12-05",
+      "endDate2": "2024-/-/",
+      "score2": "4.0"
     }],
     "certificates": [{
       "name": "Certificate",
       "date": "2021-11-07",
       "issuer": "Company",
       "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
     }],
     "skills": [
       {
@@ -122,6 +116,10 @@
           "name": "Node.js",
           "level": "Avanzado"
       },
+      {
+        "name": "Astro.js",
+        "level": "Avanzado"
+    },
       {
           "name": "Wordpress",
           "level": "Intermedio"
