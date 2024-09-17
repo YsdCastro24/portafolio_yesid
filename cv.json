@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Yesid A. Castro R.",
-      "label": "Ingeniero de sistemas, Developer con mas de 2 años de experiencia y Diseñador Grafico Empi",
+      "label": "Ingeniero de sistemas, Developer con más de 2 años de experiencia y Diseñador Grafico Empi",
       "image": "https://avatars.githubusercontent.com/u/144307120?v=4",
       "email": "ingenieroyesidcastro08@gmail.com",
       "phone": "(+57) 3128631769",
       "url": "",
-      "summary": "2 años de experiencia como Desarrollador web. Actualmente estoy culminando la carrera ingenieria de sistemas y me destaco como diseñador grafico empirico. Quibdó-chocó, colombia. He trabajado en diferentes  entornos: he sido parte de equipos de trabajos y trabajado en varios sitios web.",
+      "summary": "2 años de experiencia como Desarrollador web. Actualmente estoy culminando la carrera ingenieria de sistemas y me destaco como diseñador grafico empirico. Quibdó-chocó, colombia. He trabajado en diferentes  entornos: he sido parte de equipos de trabajos y he trabajado en varios sitios web.",
 
       "location": {
         "address": "calle 20 #23-08",
@@ -55,11 +55,11 @@
       "url": "https://www.uniclaretiana.edu.co/",
       "area": "Ingenieria de sistemas",
       "studyType": "Colombia",
-      "startDate": "2019-06-01",
+      "startDate": "2020-06-01",
       "endDate": "2024-/-/",
       "score": "4.0",
       "courses": [
-        "python-sql, MongoDB, Codeigniter 3-4"
+        "python, sql, MongoDB, Codeigniter 3-4, React, Php"
       ],
       "institution2": "I.E Nuestra señora de la candelaria",
       "url2": "https://www.ielacandelaria.edu.co/",
@@ -70,10 +70,10 @@
       "score2": "4.0"
     }],
     "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
+      "name": "Tec. De Sistemas",
+      "date": "2015-11-07",
       "issuer": "Company",
-      "url": "https://certificate.com"
+      "url": "https://senasofiaplus.edu.co/"
     }],
     "skills": [
       {
@@ -183,6 +183,17 @@
       "Empoderamiento Femenino"
     ],
     "url": "https://fundacionlapaz.com.co/",
+    "isActive": true
+  },
+  {
+    "name": "Genera Tú Nombre",
+    "startDate": "2024-09-14",
+    "endDate": "null",
+    "description": "Es un proyecto personal con el cual pretendo reslatar el amor por la tierra de donde naci y sus alrededores.",
+    "highlights": [
+      "Genera Tú Nombre y No Olvides Donde Eres"
+    ],
+    "url": "generatunombre.vercel.app/",
     "isActive": true
   },
   {
