@@ -1,0 +1,74 @@
+---
+import { references } from "@cv";
+---
+
+<section id="references" class="section">
+    <h2>Referencias</h2>
+    <ul>
+        {references.map((ref) => (
+            <li>
+                <div>
+                    <strong>{ref.name}</strong> ({ref.relationship})
+                </div>
+                <div>{ref.position}{ref.company ? ` - ${ref.company}` : ""}</div>
+                <div><em>Contacto:</em> {ref.contact}</div>
+            </li>
+        ))}
+    </ul>
+</section>
+
+
+<style>
+	    .section {
+        padding: 2rem 0;
+        max-width: 700px;
+        margin: auto;
+        text-align: left;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+        text-align: left;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        color: #666;
+    }
+
+	li {
+		margin-bottom: 0.8rem;
+		font-size: 1.1rem;
+	}
+
+	/* Responsivo */
+	@media (max-width: 768px) {
+		.section {
+			padding: 1.5rem 0;
+		}
+
+		h2 {
+			font-size: 1.5rem;
+		}
+
+		li {
+			font-size: 1rem;
+		}
+	}
+
+	@media (max-width: 480px) {
+		h2 {
+			font-size: 1.3rem;
+		}
+
+		li {
+			font-size: 0.9rem;
+		}
+	}
+</style>
+

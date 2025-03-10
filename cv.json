@@ -1,23 +1,22 @@
 {
-    "basics": {
-      "name": "Yesid A. Castro R.",
-      "label": "Ingeniero de sistemas, Developer con más de 2 años de experiencia en desarollo del software y Diseñador Grafico Empirico",
-      "label2": "Ingeniero de sistemas, Developer en desarrollo de software y Diseñador grafico",
-      "image": "https://avatars.githubusercontent.com/u/144307120?v=4",
-      "email": "ingenieroyesidcastro08@gmail.com",
-      "phone": "(+57) 3128631769",
-      "url": "",
-      "summary": "2 años de experiencia como Desarrollador web. Actualmente estoy culminando la carrera ingenieria de sistemas y me destaco como diseñador grafico empirico. Quibdó-chocó, colombia. He trabajado en diferentes  entornos: he sido parte de equipos de trabajos y he trabajado en varios sitios web.",
+  "basics": {
+    "name": "Yesid A. Castro R.",
+    "label": "Ingeniero de Sistemas y Desarrollador de Software con más de 2 años de experiencia en desarrollo web y administración de plataformas digitales. Apasionado por la tecnología y el diseño gráfico, con habilidades en frontend y backend, además de conocimientos en bases de datos y cloud computing.",
+    "image": "https://avatars.githubusercontent.com/u/144307120?v=4",
+    "email": "ingenieroyesidcastro08@gmail.com",
+    "phone": "(+57) 3128631769",
+    "url": "",
+    "summary": "Soy Desarrollador Web con más de 2 años de experiencia, actualmente finalizando mi carrera en Ingeniería de Sistemas. Me especializo en el desarrollo de software y tengo habilidades en diseño gráfico autodidacta. He trabajado en diversos entornos, formando parte de equipos de desarrollo y colaborando en múltiples proyectos web. Radicado en Quibdó, Chocó, Colombia.",
 
-      "location": {
-        "address": "calle 20 #23-08",
-        "postalCode": "57955",
-        "city": "Quibdó",
-        "countryCode": "COL",
-        "region": "Colombia"
-      },
-      "profiles": [
-        {
+    "location": {
+      "address": "calle 20 #23-08",
+      "postalCode": "270001",
+      "city": "Quibdó",
+      "countryCode": "+57",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
         "network": "X",
         "username": "bartmusick",
         "url": "https://twitter.com/bartmusick"
@@ -28,184 +27,275 @@
         "url": "https://github.com/YsdCastro24"
       }
     ]
-    },
-    "work": [{
+  },
+  "work": [
+    {
       "name": "Almacenes Fuller S.A.S",
-      "position": "Auxiliar",
+      "position": "Asistente en Readacción, publicidad y administración de la pagina web",
       "url": "https://www.almacenesfuller.com.co/",
-      "startDate": "2022-10-26",
-      "endDate": "2023-03-08",
-      "summary": "Adminsitracion del sitio web y todo lo que tiene que ver con publicidad de articulos de venta y sostenimiento de l sitio web",
+      "startDate": "2022-10-24",
+      "endDate": "2023-03-13",
+      "summary": "Encargado de la administración del sitio web, gestión de productos y estrategias de publicidad digital.",
       "highlights": [
-        "Started the company"
+        "Optimización del catálogo de productos en WordPress y WooCommerce.",
+        "Implementación de estrategias de marketing digital (Google Ads, Meta Ads).",
+        "Mantenimiento y mejora del rendimiento del sitio con PHP, CSS y JavaScript."
       ]
     },
+
     {
-      "name": "Fundacion la paz",
-      "position": "Desarrollador",
+      "name": "Fundación La Paz",
+      "position": "Desarrollador Web",
       "url": "https://fundacionlapaz.com.co/",
       "startDate": "2021-03-08",
       "endDate": "2022-08-24",
-      "summary": "Desarollador web y sostenimiento del sitio",
+      "summary": "Encargado del desarrollo y mantenimiento del sitio web, asegurando su óptimo funcionamiento y actualización constante.",
       "highlights": [
-        "siempre activo"
+        "Desarrollo y optimización del sitio web.",
+        "Mantenimiento técnico y actualización de contenido.",
+        "Implementación de mejoras para la experiencia del usuario."
       ]
-    }],
-    "education": [{
+    },
+    {
+      "name": "Centro Digitales",
+      "position": "Redes",
+      "url": "https://fundacionlapaz.com.co/",
+      "startDate": "2020-01-18",
+      "endDate": "2020-09-24",
+      "summary": "Instalación de redes, estudios de campo en algunos lugares del departamento del Chocó.",
+      "highlights": [
+        "Cargo de la adrilla de redes.",
+        "Estudios de campo en diferentes lugares del departamento del Chocó.",
+        "Instalación de redes en diferentes lugares del departamento del Chocó."
+      ]
+    }
+  ],
+  "education": [
+    {
       "institution": "Fundación Universitaria Claretiana",
       "url": "https://www.uniclaretiana.edu.co/",
       "area": "Ingenieria de sistemas",
-      "studyType": "Colombia",
+      "studyType": "Pregado",
       "startDate": "2020-06-01",
-      "endDate": "2024-/-/",
+      "endDate": "2025-/-/",
       "score": "4.0",
-      "courses": [
-        "python, sql, MongoDB, Codeigniter 3-4, React, Php"
-      ],
+      "courses": ["python, sql, MongoDB, Codeigniter 3-4, React, Php"],
       "institution2": "I.E Nuestra señora de la candelaria",
       "url2": "https://www.ielacandelaria.edu.co/",
       "area2": "Bachillerato academico",
-      "studyType2": "Colombia",
+      "studyType2": "educación secundaria",
       "startDate2": "2007-01-08",
       "endDate2": "2012-12-05",
       "score2": "4.0"
-    }],
-    "certificates": [{
+    }
+  ],
+  "certificates": [
+    {
       "name": "Tec. De Sistemas",
       "date": "2015-11-07",
-      "issuer": "Company",
+      "issuer": "SENA",
       "url": "https://senasofiaplus.edu.co/"
-    }],
-    "skills": [
-      {
-          "name": "HTML",
-          "level": "Avanzado"
-      },
-      {
-          "name": "CSS",
-          "level": "Avanzado"
-      },
-      {
-          "name": "JavaScript",
-          "level": "Avanzado"
-      },
-      {
-          "name": "TypeScript",
-          "level": "Avanzado"
-      },
-      {
-          "name": "MongoDB",
-          "level": "Intermedio"
-      },
-      {
-          "name": "Git",
-          "level": "Avanzado"
-      },
-      {
-          "name": "GitHub",
-          "level": "Avanzado"
-      },
-      {
-          "name": "Next.js",
-          "level": "Intermedio"
-      },
-      {
-          "name": "React",
-          "level": "Avanzado"
-      },
-      {
-          "name": "Node.js",
-          "level": "Avanzado"
-      },
-      {
-        "name": "Astro.js",
-        "level": "Avanzado"
-    },
-      {
-          "name": "Wordpress",
-          "level": "Intermedio"
-      },
-      {
-        "name": "UI/UX Desing",
-        "level": "Intermedio"
-    },
-      {
-          "name": "Angular",
-          "level": "Intermedio"
-      },
-      {
-          "name": "SQL",
-          "level": "Intermedio"
-      },
-      {
-        "name": "SQLite",
-        "level": "Intermedio"
     },
     {
+      "name": "React",
+      "date": "2025-03-07",
+      "issuer": "Globant y Escuala de Robótica",
+      "url": "https://www.globant.com/es, https://roboticachoco.com/"
+    },
+    {
+      "name": "Desarrollo Web Avanzado",
+      "date": "2024-12-07",
+      "issuer": "Fundación Universitaria Claretiana",
+      "url": "https://www.uniclaretiana.edu.co/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado"
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado"
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermedio"
+    },
+    {
+      "name": "React",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Node.js",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Astro.js",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Wordpress",
+      "level": "Intermedio"
+    },
+    {
+      "name": "UI/UX Desing",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Angular",
+      "level": "Intermedio"
+    },
+    {
+      "name": "SQL",
+      "level": "Intermedio"
+    },
+    {
+      "name": "SQLite",
+      "level": "Intermedio"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermedio"
+    },
+     {
       "name": "FireBase",
       "level": "Intermedio"
-  },
-  {
-    "name": "Python",
-    "level": "Intermedio"
-}],  
-  
-    "languages": [{
-      "language": "English",
-      "fluency": "basico"
-    }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Marco Antonio Castro Renteria",
-      "reference": "Reference…"
-    }],
-    "projects": [{
-      "name": "ChocoRif",
-      "startDate": "2024-01-18",
-      "endDate": "null",
-      "description": "ChocoRif es una inciciativa de rifax en linea donde las perdonas pueden comprar sus boletos para particiapar en reifcas y donde el que relaiza la rifa puede monitorear cuanta voletas le quedan y cuando ha vendido y asi por medio de uan rulete programar la rifiga con el numero ganador y muchas cosas mas... ",
-      "highlights": [
-        "La Inovación a Tu alcance"
-      ],
-      "url": "https://chocorif.com" 
     },
     {
-    "name": "Fundacion la paz",
-    "startDate": "2021-03-08",
-    "endDate": "null",
-    "description": "Fundacion la paz es una fundacion sin animo de lucro la cual brinda educación a niñas de bajos recursos y de diferentes zonas del del partemaneto del chocó y les enseña sobre el enpoderamiento famenenimo y al igual que les enseña a emprender y valerse por si solas.",
-    "highlights": [
-      "Empoderamiento Femenino"
-    ],
-    "url": "https://fundacionlapaz.com.co/",
-    "isActive": true
+      "name": "Python",
+      "level": "Intermedio"
+    }
+  ],
+
+    "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "A2 - Básico"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+  {
+    "name": "Marco Antonio Castro Renteria",
+    "relationship": "Referencia Personal",
+    "position": "Contador Público",
+    "company": "",
+    "contact": "bartolo.choco81@hotmail.com"
   },
   {
-    "name": "Genera Tú Nombre",
-    "startDate": "2024-09-14",
-    "endDate": "null",
-    "description": "Es un proyecto personal con el cual pretendo reslatar el amor por la tierra de donde naci y sus alrededores.",
-    "highlights": [
-      "Genera Tú Nombre y No Olvides Donde Eres"
-    ],
-    "url": "https://generatunombre-9uvq.vercel.app/",
-    "isActive": true
+    "name": "Sixta Renteria Mena",
+    "relationship": "Referencia Personal",
+    "position": "Comerciante",
+    "company": "Tienda",
+    "contact": "Sixtarenteria@gmail.com"
   },
   {
-    "name": "Alamacenes Fuller S.A.S",
-    "startDate": "2022-10-26",
-    "endDate": "null",
-    "description": "Alamacenes Fuller S.A.S es un alamacen de cadena situado en el departamento del cohocó el cual cuenta con una gran trayectoria en el departamento su mayor satisfacion es servirle a su comunidad y ofrecer tecnologia banguardista a sus clientes...",
-    "highlights": [
-      "¡Chocoanísimo!"
-    ],
-    "url": "https://www.almacenesfuller.com.co/",
-    "isActive": true 
-  }]
+    "name": "Karen Rodríguez",
+    "relationship": "Referencia Laboral",
+    "position": "Gerente de Recursos Humanos",
+    "company": "Almacenes Fuller S.A.S",
+    "contact": "secretaria@almacenesfuller.com.co"
+  },
+  {
+    "name": "Sandy Eloisa Asprilla Dominguez",
+    "relationship": "Referencia Laboral",
+    "position": "Representante Legal",
+    "company": "Fundación La Paz",
+    "contact": "contacto@fundaciónlapaz.com.co"
+  }
+],
+  "projects": [
+    {
+      "name": "ChocoRif",
+      "startDate": "2024-01-18",
+      "endDate": "En Curso",
+      "description": "Plataforma de rifas en línea donde los usuarios pueden comprar boletos y los organizadores pueden gestionar sus sorteos con un sistema automatizado.",
+      "highlights": ["Innovación en sorteos digitales"],
+      "url": "https://chocorif.com"
+    },
+    {
+      "name": "TypoChallenge",
+      "startDate": "2025-03-07",
+      "endDate": "En Curso",
+      "description": "TypoChallenge: Enfréntate al desafío de mecanografía definitivo. Escribe palabras contrarreloj, mejora tu WPM y aprende de tus errores con una retroalimentación clara y personalizada.",
+      "highlights": [""],
+      "url": "https://typochallenge.vercel.app/",
+      "isActive": true
+    },
+    {
+      "name": "Fundacion la paz",
+      "startDate": "2021-03-08",
+      "endDate": "null",
+      "description": "Fundacion la paz es una fundacion sin animo de lucro la cual brinda educación a niñas de bajos recursos y de diferentes zonas del del partemaneto del chocó y les enseña sobre el enpoderamiento famenenimo y al igual que les enseña a emprender y valerse por si solas.",
+      "highlights": ["Empoderamiento Femenino"],
+      "url": "https://fundacionlapaz.com.co/",
+      "isActive": true
+    },
+    {
+      "name": "Pokémon App react",
+      "startDate": "2024-12-10",
+      "endDate": "null",
+      "description": "Aplicación web desarrollada con React que permite explorar y gestionar información de Pokémon utilizando la PokéAPI. Los usuarios pueden ver detalles de Pokémon, agregarlos a favoritos y explorar información adicional como habilidades, debilidades y categorías.",
+      "highlights": ["Explora el mundo Pokémon"],
+      "url": "https://pokemon-app-react-gold.vercel.app/",
+      "isActive": true
+    },
+    {
+      "name": "Comentarios Interactivos",
+      "startDate": "2025-02-10",
+      "endDate": "null",
+      "description": "Este es un componente de comentarios interactivos desarrollado con React, Framer Motion, Tailwind CSS y Faker.js. Permite a los usuarios agregar comentarios, reaccionar con emojis y ver un historial de comentarios en una interfaz moderna y atractiva.",
+      "highlights": ["Componente dinámico de comentarios para tu web"],
+      "url": "https://componentsysd.vercel.app/",
+      "isActive": true
+    },
+    {
+      "name": "Genera Tú Nombre",
+      "startDate": "2024-09-14",
+      "endDate": "null",
+      "description": "Es un proyecto personal con el cual pretendo resaltar el amor por la tierra de donde naci y sus alrededores.",
+      "highlights": ["Genera Tú Nombre y No Olvides Donde Eres"],
+      "url": "https://generatunombre-9uvq.vercel.app/",
+      "isActive": true
+    },
+    {
+      "name": "Alamacenes Fuller S.A.S",
+      "startDate": "2022-10-26",
+      "endDate": "null",
+      "description": "Alamacenes Fuller S.A.S es un alamacen de cadena situado en el departamento del Chocó el cual cuenta con una gran trayectoria en el departamento su mayor satisfacion es servirle a su comunidad y ofrecer tecnologia vanguardista a sus clientes...",
+      "highlights": ["¡Chocoanísimo!"],
+      "url": "https://www.almacenesfuller.com.co/",
+      "isActive": true
+    }
+  ]
 }

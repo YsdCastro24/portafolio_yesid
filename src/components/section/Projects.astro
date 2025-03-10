@@ -37,24 +37,30 @@ import { projects } from "@cv"
 </Section>
 
 <style>
-    ul {
-        display: grid;
-        grid-template-columns: repeat(
-            auto-fit,
-            minmax(200px, 1rf)
-        );
-        gap: 1rem;
-        margin-inline: -16px;
-    }
+  ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    padding: 0;
+    list-style: none;
+}
 
-    article {
-        border-radius: 8px;
-        border: 1px solid #f2f2f2;
-        gap: 16px;
-        display: flex;
-        flex-direction: column;
-        padding: 16px;
-        height: 100%;
+
+  article {
+      border-radius: 8px;
+      border: 1px solid #f2f2f2;
+      display: flex;
+      flex-direction: column;
+      padding: 16px;
+      height: 100%;
+      background-color: #fff;
+      transition: transform 0.2s ease-in-out;
+  }
+
+  article:hover {
+      transform: scale(1.02);
+  }
+
     }---
 import 'hotkeypad/reset.css'
 import 'hotkeypad/index.css'
@@ -250,6 +256,24 @@ const profilesInfo = profiles.map(({ network, url }) => {
       cursor: pointer;
     }
   }
+  @media (max-width: 768px) {
+    ul {
+        grid-template-columns: 1fr;
+    }
+
+    article {
+        padding: 12px;
+    }
+
+    h3 {
+        font-size: 1rem;
+    }
+
+    p {
+        font-size: 0.85rem;
+    }
+}
+
 
   footer {
     background: #fdfdfd;
@@ -281,9 +305,9 @@ const profilesInfo = profiles.map(({ network, url }) => {
     }
 
     article h3 {
-        margin-bottom: 4px;
-    }
-
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
     article a {
         color: #111;
     }
@@ -293,9 +317,10 @@ const profilesInfo = profiles.map(({ network, url }) => {
     }
 
     article p {
-        font-size: 0.75rem;
+        font-size: 0.9rem;
         line-height: 1.2rem;
         margin-bottom: 4px;
+        color: #666;
     }
 
     article h3 span {
