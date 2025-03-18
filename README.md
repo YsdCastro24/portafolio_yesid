@@ -1,6 +1,6 @@
 # CV de Yesid A. Castro R.
 
-¡Bienvenido a mi proyecto de CV! Este proyecto es una representación digital de mi currículum vitae, desarrollado utilizando Astro, TypeScript y JSON.
+¡Bienvenido a proyecto de CV! Este proyecto es una representación digital de mi currículum vitae, desarrollado utilizando Astro, TypeScript y JSON.
 
 ## Descripción
 
