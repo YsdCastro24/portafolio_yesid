@@ -99,7 +99,7 @@
     {
       "name": "React",
       "date": "2025-03-07",
-      "issuer": "Globant y Escuala de Robótica",
+      "issuer": "Globant y Escuela de Robótica",
       "url": "https://www.globant.com/es, https://roboticachoco.com/"
     },
     {
@@ -107,6 +107,24 @@
       "date": "2024-12-07",
       "issuer": "Fundación Universitaria Claretiana",
       "url": "https://www.uniclaretiana.edu.co/"
+    },
+    {
+      "name": "Trabajo En Alturas Avanzado",
+      "date": "2020-08-07",
+      "issuer": "Analista en seguridad industrial E Ingeniería S.A.S",
+      "url": ""
+    },
+    {
+      "name": "Diplomado Diseño Digital",
+      "date": "2022-06-17",
+      "issuer": "Politecnico De Colombia",
+      "url": "https://www.politecnicodecolombia.edu.co/"
+    },
+    {
+      "name": "Diplomado Instagram Para Desarrollo De Marcas",
+      "date": "2022-08-17",
+      "issuer": "Politecnico De Colombia",
+      "url": "https://www.politecnicodecolombia.edu.co/"
     }
   ],
   "skills": [
@@ -249,7 +267,7 @@
       "endDate": "En Curso",
       "description": "TypoChallenge: Enfréntate al desafío de mecanografía definitivo. Escribe palabras contrarreloj, mejora tu WPM y aprende de tus errores con una retroalimentación clara y personalizada.",
       "highlights": [""],
-      "url": "https://typochallenge.vercel.app/",
+      "url": "https://typochallenge2.vercel.app/",
       "isActive": true
     },
     {
